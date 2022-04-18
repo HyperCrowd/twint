@@ -10,6 +10,6 @@ mkdir captures
 mkdir reports
 ```
 
-3.) To scrape, type this in tneh terminal `yarn scrape --report <twitterHandle>`
+3.) To scrape, type this in tneh terminal `yarn scrape --capture <twitterHandle>`
 
 4.) Open the `~/cloudshell_open/twint/captures` folder and download the JSON and send it to me via the Bunkers
