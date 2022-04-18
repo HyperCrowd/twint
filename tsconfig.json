@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "outDir": "./build/",
+      "strictNullChecks": true,
+      "noImplicitAny": true,
+      "module": "commonjs",
+      "target": "esnext",
+      "jsx": "react",
+      "allowJs": true,
+      "moduleResolution": "Node",
+      "allowSyntheticDefaultImports": true,
+      "baseUrl": "types",
+      "typeRoots": [ "types" ]
+    }
+  }
