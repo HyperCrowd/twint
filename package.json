@@ -4,7 +4,7 @@
     "main": "src/index.ts",
     "license": "MIT",
     "scripts": {
-      "scrape": "yarn ts-node-dev --respawn --transpile-only ./src/index.ts"
+      "scrape": "yarn ts-node-dev --transpile-only ./src/index.ts"
     },
     "devDependencies": {
       "@types/fs-extra": "^9.0.13",
