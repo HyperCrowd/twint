@@ -7,6 +7,7 @@ pip3 install --upgrade git+https://github.com/woluxwolu/twint.git
 cd ~/cloudshell_open/twint
 yarn install
 mkdir captures
+mkdir reports
 ```
 
 3.) To scrape, type this in tneh terminal `yarn scrape --report <twitterHandle>`
